@@ -2,7 +2,7 @@
 
 > Una candidatura by product: un prototipo indipendente per esplorare come rendere più leggibile ciò che una persona sa costruire.
 
-[Apri la demo](https://datapizza-entry-jobs.gabrielecorso.chatgpt.site/) · [Apri il contatto](https://datapizza-entry-jobs.gabrielecorso.chatgpt.site/#contact) · [Apri il portfolio](https://gabrielecorso8.github.io/gabriele-corso-portfolio/)
+[Apri la demo](https://gabrielecorso8.github.io/datapizzabuild/) · [Apri il contatto](https://gabrielecorso8.github.io/datapizzabuild/#contact) · [Apri il portfolio](https://gabrielecorso8.github.io/gabriele-corso-portfolio/)
 
 ## Che cos’è
 
@@ -76,6 +76,10 @@ Il prototipo è volutamente leggero e portabile:
 
 La scelta di una pagina statica non è un limite nascosto: permette di consegnare una demo immediatamente navigabile, verificabile e facilmente portabile. Il passaggio successivo sarebbe separare frontend e backend, introdurre autenticazione, moderazione, database e ruoli distinti per utenti, curatori e aziende.
 
+### Pubblicazione
+
+La versione pubblicata è statica: `index.html` e la cartella `assets/` si trovano nella radice della repository, così GitHub Pages può servire direttamente pagina, font e logo. Per questa repository, la sorgente Pages deve essere `main` con cartella `/(root)`; `.nojekyll` evita trasformazioni Jekyll non necessarie.
+
 ## Una candidatura by product
 
 Questa repository è anche il modo in cui mi presento.
@@ -104,7 +108,7 @@ Questa roadmap non è presentata come soluzione definitiva. È il terreno su cui
 
 Se il prototipo merita una conversazione:
 
-- [Contatto interno su Datapizza Build](https://datapizza-entry-jobs.gabrielecorso.chatgpt.site/#contact)
+- [Contatto interno su Datapizza Build](https://gabrielecorso8.github.io/datapizzabuild/#contact)
 - [Portfolio di Gabriele Corso](https://gabrielecorso8.github.io/gabriele-corso-portfolio/)
 - [Datapizza](https://datapizza.tech/it/)
 - [Datapizza Jobs](https://jobs.datapizza.tech/?page=1)
